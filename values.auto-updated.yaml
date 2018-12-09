@@ -20,7 +20,7 @@ internal-search-ui:
 list-manager:
   image: budgetkey/budgetkey-list-manager:63f144e08117b2f044b6e92dece57d7227ea4d73
 migdar-data-pipelines:
-  image: uumpa/hasadna-migdar-data-pipelines:a462df77ed246c2dda56169e9d11be612e869493
+  image: hasadna/migdar-data-pipelines:5b1bb56fd1237e7dfa710469a5b5e6727be60467
 nginx:
   image: budgetkey/open-budget-nginx-frontend:d8cbc9e27c438584170ee5ab3bc1896e1727f0d1
 openprocure:
